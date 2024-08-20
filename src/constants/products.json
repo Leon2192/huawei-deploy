@@ -1,0 +1,1369 @@
+{
+    "SME NETWORK": [
+        {
+            "alias": "sme-network-product-1",
+            "title": "S220-8T4S",
+            "description": " S220-8T4S(8*10/100/1000BASE-T ports, 4*GE SFP ports, built-in AC power) ",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK1.png",
+            "overview": "/products/overview.png",
+            "category": "Switch",
+            "series": "Series A",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "models": [
+                {
+                    "name": "S220-48P4S"
+                },
+                {
+                    "name": "S220-24P4X"
+                },
+                {
+                    "name": "S220-8T4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-2",
+            "title": "S220-8P4S",
+            "description": "S220-8P4S(8*10/100/1000BASE-T ports(125W PoE+),4*GE SFP ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK2.png",
+            "overview": "/products/overview.png",
+            "category": "Switch",
+            "series": "Series A",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "models": [
+                {
+                    "name": "S220-24P4X"
+                },
+                {
+                    "name": "S220-8T4S"
+                },
+                {
+                    "name": "S220-48P4S"
+                },
+                {
+                    "name": "S220-8P4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-3",
+            "title": "S220-48T4S",
+            "category": "Switch",
+            "series": "Series A",
+            "description": "S220-48T4S (48*10/100/1000BASE-T ports, 4*GE SFP ports, built-in AC power).",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK3.png",
+            "overview": "/products/overview.png",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "models": [
+                {
+                    "name": "S220-24T4X"
+                },
+                {
+                    "name": "S220-48P4X"
+                },
+                {
+                    "name": "S220-48T4X"
+                },
+                {
+                    "name": "S220-48T4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-4",
+            "title": "S220-48T4X",
+            "description": "S220-48T4X (48*10/100/1000BASE-T ports, 4*10GE SFP+ ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK4.png",
+            "overview": "/products/overview.png",
+            "category": "Switch",
+            "series": "Series A",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "models": [
+                {
+                    "name": "S220-24T4X"
+                },
+                {
+                    "name": "S220-48P4X"
+                },
+                {
+                    "name": "S220-48T4S"
+                },
+                {
+                    "name": "S220-48T4X"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-5",
+            "title": "S220-24T4X",
+            "description": "S220-24T4X (24*10/100/1000BASE-T ports, 4*10GE SFP+ ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK5.png",
+            "category": "Switch",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "S220-24T4X"
+                },
+                {
+                    "name": "S220-48P4X"
+                },
+                {
+                    "name": "S220-48T4X"
+                },
+                {
+                    "name": "S220-48T4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-6",
+            "title": "S220-48P4S",
+            "description": "S220-48P4S (48*10/100/1000BASE-T ports(380W PoE+), 4*GE SFP ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK5.png",
+            "category": "Switch",
+            "series": "Series A",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "models": [
+                {
+                    "name": "S220-24P4X"
+                },
+                {
+                    "name": "S220-8T4S"
+                },
+                {
+                    "name": "S220-48P4S"
+                },
+                {
+                    "name": "S220-8P4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-7",
+            "title": "S220-48P4X",
+            "description": "S220-48P4X (48*10/100/1000BASE-T ports(380W PoE+), 4*10GE SFP+ ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK5.png",
+            "category": "Switch",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "S220-24T4X"
+                },
+                {
+                    "name": "S220-48P4X"
+                },
+                {
+                    "name": "S220-48T4X"
+                },
+                {
+                    "name": "S220-48T4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-8",
+            "title": "S220-24P4X",
+            "description": "S220-24P4X (24*10/100/1000BASE-T ports(400W PoE+), 4*10GE SFP+ ports, built-in AC power)",
+            "src": "/products/SMENETWORK/Switches/SMENETWORK5.png",
+            "category": "Switch",
+            "specifications": "/files/SMENETWORK/ekitEngineS220SeriesSwitchesDatasheet.pdf",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "S220-48T4X"
+                },
+                {
+                    "name": "S220-48T4S"
+                },
+                {
+                    "name": "S220-24P4X"
+                },
+                {
+                    "name": "S220-8T4S"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-9",
+            "title": "AP362",
+            "description": "Huawei eKitEngine AP362 is a Wi-Fi 6 (802.11ax) indoor access point (AP). It can simultaneously provide services on 2.4 GHz (2x2 MIMO) and 5 GHz (2x2 MIMO) frequency bands, achieving a device rate of up to 2.975 Gbps",
+            "src": "/products/SMENETWORK/WLAN/ap362.png",
+            "category": "WLAN",
+            "specifications": "/files/SMENETWORK/eKitEngineAP362Datasheet.pdf",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AP362"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-10",
+            "title": "AP361",
+            "description": "Huawei eKitEngine AP361 is a Wi-Fi 6 (802.11ax) indoor access point (AP). It can simultaneously provide services on 2.4 GHz (2x2 MIMO) and 5 GHz (2x2 MIMO) frequency bands, achieving a device rate of up to 1.775 Gbps",
+            "src": "/products/SMENETWORK/WLAN/ap361.png",
+            "specifications": "/files/SMENETWORK/eKitEngineAP361Datasheet.pdf",
+            "category": "WLAN",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AP263"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-11",
+            "title": "AR303",
+            "description": "AR303, 1*GE COMBO WAN, 4*GE LAN, 1*USB 2.0",
+            "src": "/products/SMENETWORK/Routers/AR303.png",
+            "specifications": "/files/SMENETWORK/AR303EnterpriseRouterDatasheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AR303"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-12",
+            "title": "AR730",
+            "description": "Forwarding performance: 9 Mpps to 25 Mpps | Number of connected terminals: 1200 | Fixed WAN ports: 2 x GE combo ports, 1 x 10GE optical port (compatible with GE optical) | Fixed LAN ports: 1 x GE combo port, 8 x GE electrical ports (can be switched to WAN ports) | Dimensions (H x W x D): 43.6 mm x 442 mm x 220 mm",
+            "src": "/products/SMENETWORK/Routers/AR730.png",
+            "specifications": "/files/SMENETWORK/AR700SeriesEnterpriseRouterDataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AR730"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-13",
+            "title": "AP371",
+            "description": " AP371(11be indoor,2+2 dual bands,smart antenna)",
+            "src": "/products/SMENETWORK/WLAN/ap371.png",
+            "category": "WLAN",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AP371"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-14",
+            "title": "AP661",
+            "description": " AP661(11ax indoor,2+2+4 tri bands,smart antenna,USB,BLE) ",
+            "specifications": "/files/SMENETWORK/eKitEngineAP661Datasheet.pdf",
+            "src": "/products/SMENETWORK/WLAN/ap661.png",
+            "category": "WLAN",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AP661"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-15",
+            "title": "AP761",
+            "description": " AP761(11ax outdoor,2+2 dual bands,built-in antenna,BLE) ",
+            "src": "/products/SMENETWORK/WLAN/ap761.png",
+            "specifications": "/files/SMENETWORK/eKitEngineAP761Datasheet.pdf",
+            "category": "WLAN",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AP761"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-16",
+            "title": "AC650-128AP",
+            "description": "The AC650-128AP is a small-capacity box wireless access controller (WAC) for small office home office (SOHO) enterprises. It can manage up to 128 access points (APs) and integrates the GE Ethernet switch function, achieving integrated access for wired and wireless users",
+            "src": "/products/SMENETWORK/WLAN/AC650-128AP.png",
+            "specifications": "/files/SMENETWORK/AC650-128APDatasheet.pdf",
+            "category": "WLAN",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AC650-128AP"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-17",
+            "title": "AC650-256AP",
+            "description": "The AC650-256AP is a small-capacity box wireless access controller (WAC) for small office home office (SOHO) enterprises. It can manage up to 256 access points (APs) and integrates the GE Ethernet switch function, achieving integrated access for wired and wireless users",
+            "src": "/products/SMENETWORK/WLAN/AC650-256AP.png",
+            "category": "WLAN",
+            "series": "Series A",
+            "specifications": "/files/SMENETWORK/AC650-256APDatasheet.pdf",
+            "models": [
+                {
+                    "name": "AC650-256AP"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-18",
+            "title": "AR720",
+            "description": "Forwarding performance: 9 Mpps to 25 Mpps | Number of connected terminals: 700 | Fixed WAN ports: 2 x GE combo ports | Fixed LAN ports: 8 x GE ports (can be switched to WAN ports) | Dimensions (H x W x D): 43.6 mm x 442 mm x 220 mm",
+            "src": "/products/SMENETWORK/Routers/ar720.png",
+            "specifications": "/files/SMENETWORK/AR700SeriesEnterpriseRouterDataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "AR720"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-19",
+            "title": "eKitEngine S380-H8T3ST",
+            "description": "Multi-Service Gateway | Number of managed Aps: 128 | Maximum user: 500 | Switching Capacity: 16Gbps | Packet forwarding rate: Upload:500 Kpps, download:420 Kpps | Egress bandwidth: 2Gbps | 2 x 10/100/1000BASE-T ports, 1 x GE SFP port(WLAN) + 8 x 10/100/1000BASE-T ports(LAN)",
+            "src": "/products/SMENETWORK/Routers/eKitEngine S380-H8T3ST.png",
+            "specifications": "/files/SMENETWORK/S380DataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "eKitEngine S380-H8T3ST"
+                },
+                {
+                    "name": "eKitEngine S380-L4P1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8T2T"
+                },
+                {
+                    "name": "eKitEngine S380-S8P2T"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-20",
+            "title": "eKitEngine S380-H8T3ST",
+            "description": "Multi-Service Gateway | Number of managed Aps: 64 | Maximum user: 250 | Switching Capacity: 16Gbps | Packet forwarding rate: Upload:500 Kpps, download:420 Kpps | Egress bandwidth: 2Gbps | 2 x 10/100/1000BASE-T ports(WAN),8 x 10/100/1000BASE-T ports(LAN) | PoE+",
+            "src": "/products/SMENETWORK/Routers/eKitEngine S380-S8P2T.png",
+            "specifications": "/files/SMENETWORK/S380DataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "eKitEngine S380-H8T3ST"
+                },
+                {
+                    "name": "eKitEngine S380-S8T2T"
+                },
+                {
+                    "name": "eKitEngine S380-L4P1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8P2T"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-21",
+            "title": "eKitEngine S380-H8T3ST",
+            "description": "Multi-Service Gateway | Number of managed Aps: 64 | Maximum user: 300 | Switching Capacity: 16Gbps | Packet forwarding rate: Upload:500 Kpps, download:420 Kpps | Egress bandwidth: 2Gbps | 2 x 10/100/1000BASE-T ports(WAN) + 8 x 10/100/1000BASE-T ports(LAN)",
+            "src": "/products/SMENETWORK/Routers/eKitEngine S380-S8T2T.png",
+            "specifications": "/files/SMENETWORK/S380DataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "eKitEngine S380-S8T2T"
+                },
+                {
+                    "name": "eKitEngine S380-L4P1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8P2T"
+                },
+                {
+                    "name": "eKitEngine S380-L4T1T"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-22",
+            "title": "eKitEngine S380-L4P1T",
+            "description": "Multi-Service Gateway | Number of managed Aps: 32 | Maximum user: 200 | Switching Capacity: 8Gbps | Packet forwarding rate: Upload:300 Kpps, download:420 Kpps | Egress bandwidth: 1Gbps | 1 x 10/100/1000BASE-T port(WLAN) + 4 x 10/100/1000BASE-T ports(LAN) | PoE+",
+            "src": "/products/SMENETWORK/Routers/eKitEngine S380-L4P1T.png",
+            "specifications": "/files/SMENETWORK/S380DataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "eKitEngine S380-L4P1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8T2T"
+                },
+                {
+                    "name": "eKitEngine S380-S8P2T"
+                },
+                {
+                    "name": "eKitEngine S380-L4T1T"
+                }
+            ]
+        },
+        {
+            "alias": "sme-network-product-23",
+            "title": "eKitEngine S380-L4T1T",
+            "description": "Multi-Service Gateway | Number of managed Aps: 32 | Maximum user: 200 | Switching Capacity: 8Gbps | Packet forwarding rate: Upload:300 Kpps, download:420 Kpps | Egress bandwidth: 1Gbps | 1 x 10/100/1000BASE-T port(WAN)+4 x 10/100/1000BASE-T ports(LAN)",
+            "src": "/products/SMENETWORK/Routers/eKitEngine S380-L4T1T.png",
+            "specifications": "/files/SMENETWORK/S380DataSheet.pdf",
+            "category": "Router",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "eKitEngine S380-L4T1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8P2T"
+                },
+                {
+                    "name": "eKitEngine S380-L4P1T"
+                },
+                {
+                    "name": "eKitEngine S380-S8T2T"
+                }
+            ]
+        }
+    ],
+    "Data Storage": [
+        {
+            "alias": "data-storage-product-1",
+            "title": "5120-S-S-32G-AC",
+            "description": "5120(2U, Dual Controllers, SAS, AC240V HVDC, 32GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,25*2.5 Inch SAS,SPE26C0225)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 5120 and 5220 Hybrid Flash Storage Systems-Data Sheet-20240326.pdf",
+            "overview": "/products/overview.png",
+            "category": "Entry Level Storage",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "5120-S-S-32G-AC"
+                },
+                {
+                    "name": "5120-S-S-64G-AC"
+                },
+                {
+                    "name": "5120-S-L-32G-AC"
+                },
+                {
+                    "name": "5120-S-L-64G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-2",
+            "title": "5120-S-L-64G-AC",
+            "description": "5120(2U, Dual Controllers, SAS, AC240V HVDC, 64GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,12*3.5 Inch SAS,SPE26C0212)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "series": "Series A",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 5120 and 5220 Hybrid Flash Storage Systems-Data Sheet-20240326.pdf",
+            "models": [
+                {
+                    "name": "5120-S-L-64G-AC"
+                },
+                {
+                    "name": "5120-S-L-32G-AC"
+                },
+                {
+                    "name": "5120-S-S-64G-AC"
+                },
+                {
+                    "name": "5120-S-S-32G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-3",
+            "title": "5120-S-L-32G-AC",
+            "description": "5120(2U, Dual Controllers, SAS, AC240V HVDC, 32GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,12*3.5 Inch SAS,SPE26C0212)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "series": "Series A",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 5120 and 5220 Hybrid Flash Storage Systems-Data Sheet-20240326.pdf",
+            "models": [
+                {
+                    "name": "5120-S-L-32G-AC"
+                },
+                {
+                    "name": "5120-S-L-64G-AC"
+                },
+                {
+                    "name": "5120-S-S-64G-AC"
+                },
+                {
+                    "name": "5120-S-S-32G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-4",
+            "title": "5120-S-S-64G-AC",
+            "description": "5120(2U, Dual Controllers, SAS, AC240V HVDC, 64GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,25*2.5 Inch SAS,SPE26C0225)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 5120 and 5220 Hybrid Flash Storage Systems-Data Sheet-20240326.pdf",
+            "models": [
+                {
+                    "name": "5120-S-S-64G-AC"
+                },
+                {
+                    "name": "5120-S-L-32G-AC"
+                },
+                {
+                    "name": "5120-S-S-64G-AC"
+                },
+                {
+                    "name": "5120-S-S-32G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-5",
+            "title": "5220-S-S-96G-AC",
+            "category": "Entry Level Storage",
+            "series": "Series A",
+            "description": "5220(2U, Dual Controllers, SAS, AC240V HVDC, 96GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,25*2.5 Inch SAS,SPE26C0225)",
+            "src": "/products/DATASTORAGE/datastorage2.png",
+            "models": [
+                {
+                    "name": "5220-S-S-96G-AC"
+                },
+                {
+                    "name": "5220-S-L-64G-AC"
+                },
+                {
+                    "name": "5220-S-S-64G-AC"
+                },
+                {
+                    "name": "5220-S-L-96G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-6",
+            "title": "5220-S-S-64G-AC",
+            "category": "Entry Level Storage",
+            "series": "Series A",
+            "description": "5220(2U, Dual Controllers, SAS, AC240V HVDC, 64GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,25*2.5 Inch SAS,SPE26C0225)",
+            "src": "/products/DATASTORAGE/datastorage2.png",
+            "models": [
+                {
+                    "name": "5220-S-S-64G-AC"
+                },
+                {
+                    "name": "5220-S-L-96G-AC"
+                },
+                {
+                    "name": "5220-S-S-96G-AC"
+                },
+                {
+                    "name": "5220-S-L-64G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-7",
+            "title": "5220-S-L-96G-AC",
+            "description": "5220(2U, Dual Controllers, SAS, AC240V HVDC, 96GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,12*3.5 Inch SAS,SPE26C0212)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "models": [
+                {
+                    "name": "5220-S-L-96G-AC"
+                },
+                {
+                    "name": "5220-S-S-64G-AC"
+                },
+                {
+                    "name": "5220-S-S-96G-AC"
+                },
+                {
+                    "name": "5220-S-L-64G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-8",
+            "title": "5220-S-L-64G-AC",
+            "description": "5220(2U, Dual Controllers, SAS, AC240V HVDC, 64GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,12*3.5 Inch SAS,SPE26C0212)",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "models": [
+                {
+                    "name": "5220-S-L-64G-AC"
+                },
+                {
+                    "name": "5220-S-S-96G-AC"
+                },
+                {
+                    "name": "5220-S-S-64G-AC"
+                },
+                {
+                    "name": "5220-S-L-96G-AC"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-9",
+            "title": "OceanStor 2220 (32 GB Cache 3.5 Inch SAS)",
+            "description": "Huawei New-Gen OceanStor 2220 Hybrid Flash Storage System is designed for MSMEs, featuring convenient and efficient data infrastructure. It fully exploits the value of enterprise data, and helps enterprises go digital.",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 2220 Hybrid Flash Storage System - Data Sheet-20231013.pdf",
+            "models": [
+                {
+                    "name": "OceanStor 2220 (32 GB Cache 3.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2220 (32 GB Cache 2.5 Inch SAS)"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-10",
+            "title": "OceanStor 2220 (32 GB Cache 2.5 Inch SAS)",
+            "description": "Huawei New-Gen OceanStor 2220 Hybrid Flash Storage System is designed for MSMEs, featuring convenient and efficient data infrastructure. It fully exploits the value of enterprise data, and helps enterprises go digital.",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 2220 Hybrid Flash Storage System - Data Sheet-20231013.pdf",
+            "models": [
+                {
+                    "name": "OceanStor 2220 (32 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2220 (32 GB Cache 3.5 Inch SAS)"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-11",
+            "title": "OceanStor 2620 (64 GB Cache 3.5 Inch SAS)",
+            "description": "Simplified, easy-to-use, and intelligent — Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System is designed for SMEs. It provides convenient and efficient data infrastructure, fully exploits the value of enterprise data, and helps enterprises go digital.",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System - Data Sheet-20231013.pdf",
+            "models": [
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 3.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 3.5 Inch SAS)"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-12",
+            "title": "OceanStor 2620 (64 GB Cache 2.5 Inch SAS)",
+            "description": "Simplified, easy-to-use, and intelligent — Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System is designed for SMEs. It provides convenient and efficient data infrastructure, fully exploits the value of enterprise data, and helps enterprises go digital.",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System - Data Sheet-20231013.pdf",
+            "models": [
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 3.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 3.5 Inch SAS)"
+                }
+            ]
+        },
+        {
+            "alias": "data-storage-product-13",
+            "title": "OceanStor 2620 (128 GB Cache 2.5 Inch SAS)",
+            "description": "Simplified, easy-to-use, and intelligent — Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System is designed for SMEs. It provides convenient and efficient data infrastructure, fully exploits the value of enterprise data, and helps enterprises go digital.",
+            "src": "/products/DATASTORAGE/dataStorage.png",
+            "category": "Entry Level Storage",
+            "specifications": "/files/DataStorage/Huawei New-Gen OceanStor 2620 Hybrid Flash Storage System - Data Sheet-20231013.pdf",
+            "models": [
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 3.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (64 GB Cache 2.5 Inch SAS)"
+                },
+                {
+                    "name": "OceanStor 2620 (128 GB Cache 3.5 Inch SAS)"
+                }
+            ]
+        }
+    ],
+    "IdeaHub": [
+        {
+            "alias": "ideahub-product-1",
+            "title": "IHB2-86SU",
+            "description": "HUAWEI IdeaHub Board 2,IHB2-86SU,Intelligent Collaboration Device 86-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IHB2-86SU.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub Board 2 Datasheet for Reading-1104.pdf",
+            "models": [
+                {
+                    "name": "IHB2-86SU"
+                },
+                {
+                    "name": "IHB2-75SU"
+                },
+                {
+                    "name": "IHB2-65SU"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-2",
+            "title": "IHB2-75SU",
+            "description": "HUAWEI IdeaHub Board 2,IHB2-75SU,Intelligent Collaboration Device 75-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IHB2-75SU.png",
+            "overview": "/products/overview.png",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub Board 2 Datasheet for Reading-1104.pdf",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IHB2-75SU"
+                },
+                {
+                    "name": "IHB2-86SU"
+                },
+                {
+                    "name": "IHB2-65SU"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-3",
+            "title": "IHB2-65SU",
+            "description": "HUAWEI IdeaHub Board 2,IHB2-65SU,Intelligent Collaboration Device 65-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IHB2-65SU.png",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub Board 2 Datasheet for Reading-1104.pdf",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IHB2-65SU"
+                },
+                {
+                    "name": "IHB2-75SU"
+                },
+                {
+                    "name": "IHB2-65SU"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-4",
+            "title": "IdeaHub B3-75",
+            "description": "HUAWEI IdeaHub B3,IHB3-75SA,Intelligent Collaboration Device 75-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B3-75.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B3-75"
+                },
+                {
+                    "name": "IdeaHub B3-65"
+                },
+                {
+                    "name": "IdeaHub B3-86"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-5",
+            "title": "IdeaHub B3-65",
+            "description": "HUAWEI IdeaHub B3,IHB3-65SA,Intelligent Collaboration Device 65-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B3-65.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B3-65"
+                },
+                {
+                    "name": "IdeaHub B3-75"
+                },
+                {
+                    "name": "IdeaHub B3-86"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-6",
+            "title": "IdeaHub B3-86",
+            "description": "HUAWEI IdeaHub B3,IHB3-75SA,Intelligent Collaboration Device 75-inch infrared screen,Jade white,overseas",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B3-86.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B3-86"
+                },
+                {
+                    "name": "IdeaHub B3-65"
+                },
+                {
+                    "name": "IdeaHub B3-75"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-7",
+            "title": "IdeaHub B3-86",
+            "description": "Built on the next-gen hardware platform architecture, HUAWEI IdeaHub S2 is equipped with Bring Your Own Meeting (BYOM), HD immersive meeting quality, Wi-Fi 6 for direct projection, and ultra-low writing latency, easily adapting to mainstream cloud meeting apps. It is a perfect solution for boundless collaboration and communication to fit in any room, such as regular meeting rooms, executive offices, and open office areas.",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub S2-86.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub S2-86"
+                },
+                {
+                    "name": "IdeaHub S2-65"
+                },
+                {
+                    "name": "IdeaHub S2-75"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-8",
+            "title": "IdeaHub S2-75",
+            "description": "Built on the next-gen hardware platform architecture, HUAWEI IdeaHub S2 is equipped with Bring Your Own Meeting (BYOM), HD immersive meeting quality, Wi-Fi 6 for direct projection, and ultra-low writing latency, easily adapting to mainstream cloud meeting apps. It is a perfect solution for boundless collaboration and communication to fit in any room, such as regular meeting rooms, executive offices, and open office areas..",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub S2-75.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub S2 Datasheet (simplified edition)-for printing (1).pdf",
+            "models": [
+                {
+                    "name": "IdeaHub S2-75"
+                },
+                {
+                    "name": "IdeaHub S2-65"
+                },
+                {
+                    "name": "IdeaHub S2-865"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-9",
+            "title": "IdeaHub S2-65",
+            "description": "Built on the next-gen hardware platform architecture, HUAWEI IdeaHub S2 is equipped with Bring Your Own Meeting (BYOM), HD immersive meeting quality, Wi-Fi 6 for direct projection, and ultra-low writing latency, easily adapting to mainstream cloud meeting apps. It is a perfect solution for boundless collaboration and communication to fit in any room, such as regular meeting rooms, executive offices, and open office areas.",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub S2-65.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub S2-65"
+                },
+                {
+                    "name": "IdeaHub S2-86"
+                },
+                {
+                    "name": "IdeaHub S2-75"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-10",
+            "title": "IdeaHub B2-86",
+            "description": "HUAWEI IdeaHub B2 is the next-generation intelligent meeting panel that delivers HD cloud conferencing. With dual Wi-Fi design and an optical anti-blue light feature, it offers an upgraded projection and writing experience perfect for multiple office environments, including meeting rooms, manager offices, and open office areas.",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B2-86.png",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub B2 Datasheet(simplified edition) -for reading.pdf",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B2-86"
+                },
+                {
+                    "name": "IdeaHub B2-75"
+                },
+                {
+                    "name": "IdeaHub B2-65"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-11",
+            "title": "IdeaHub B2-75",
+            "description": "HUAWEI IdeaHub B2 is the next-generation intelligent meeting panel that delivers HD cloud conferencing. With dual Wi-Fi design and an optical anti-blue light feature, it offers an upgraded projection and writing experience perfect for multiple office environments, including meeting rooms, manager offices, and open office areas.",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B2-75.png",
+            "category": "IdeaHub",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub B2 Datasheet(simplified edition) -for reading.pdf",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B2-75"
+                },
+                {
+                    "name": "IdeaHub B2-65"
+                },
+                {
+                    "name": "IdeaHub B2-86"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-12",
+            "title": "IdeaHub B2-65",
+            "description": "HUAWEI IdeaHub B2 is the next-generation intelligent meeting panel that delivers HD cloud conferencing. With dual Wi-Fi design and an optical anti-blue light feature, it offers an upgraded projection and writing experience perfect for multiple office environments, including meeting rooms, manager offices, and open office areas.",
+            "src": "/products/IDEAHUB/Ideahub/IdeaHub B2-65.png",
+            "category": "IdeaHub",
+            "series": "Series A",
+            "specifications": "/files/IDEAHUB/HUAWEI IdeaHub B2 Datasheet(simplified edition) -for reading.pdf",
+            "models": [
+                {
+                    "name": "IdeaHub B2-65"
+                },
+                {
+                    "name": "IdeaHub B2-75"
+                },
+                {
+                    "name": "IdeaHub B2-86"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-13",
+            "title": "M100",
+            "description": "M100,Conference Speakerphone(Bluetooth,USB Dongle,Type-C port,1m USB C-A line)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-13.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "M100"
+                },
+                {
+                    "name": "M100 Pro (European)"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-14",
+            "title": "M100 Pro (European)",
+            "description": "M100 Pro,Conference Speakerphone(Bluetooth,USB Dongle,Type-C port,5m USB C-A line,3m USB C-C line)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-14.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "M100 Pro (European)"
+                },
+                {
+                    "name": "M100"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-15",
+            "title": "CloudLink Touch",
+            "description": "HUAWEI Touch , Touch",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-15.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "CloudLink Touch"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-16",
+            "title": "VC8MBRAC1",
+            "description": "Camera bracket for VPC600VPC620TE30",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-16.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "VC8MBRAC1"
+                },
+                {
+                    "name": "CHDMIEC01"
+                },
+                {
+                    "name": "CVISRJ454"
+                },
+                {
+                    "name": "C200-HW"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-17",
+            "title": "CVISRJ454",
+            "description": "Camera bracket for VPC600VPC620TE30",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-17.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "CVISRJ454"
+                },
+                {
+                    "name": "C200-HW"
+                },
+                {
+                    "name": "CHDMIEC01"
+                },
+                {
+                    "name": "VC8MBRAC1"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-18",
+            "title": "CloudLink Mic 500T",
+            "description": "HUAWEI Mic 500T, Microphone Array",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-18.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "CloudLink Mic 500T"
+                },
+                {
+                    "name": "CloudLink Mic 500"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-19",
+            "title": "CHDMIEC01",
+            "description": "DVI switch to HDMI-2M-for HD endpoint use",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-19.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "CHDMIEC01"
+                },
+                {
+                    "name": "VC8MBRAC1"
+                },
+                {
+                    "name": "CVISRJ454"
+                },
+                {
+                    "name": "C200-HW"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-20",
+            "title": "C200-HW",
+            "description": "C200-HW UHD Video Camera(4K-12X-HDMI, English,12v adapter,remote control)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-20.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "C200-HW"
+                },
+                {
+                    "name": "CVISRJ454"
+                },
+                {
+                    "name": "CHDMIEC01"
+                },
+                {
+                    "name": "VC8MBRAC1"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-21",
+            "title": "CloudLink Mic 500",
+            "description": "HUAWEI Mic 500, Microphone Array",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-21.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "CloudLink Mic 500"
+                },
+                {
+                    "name": "CloudLink Mic 500T"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-22",
+            "title": "IFP-UG86E-STP-V1",
+            "description": "HUAWEI IdeaHub Board Edu Screen Touch Pen (2pcs/one box)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-22.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IFP-UG86E-STP-V1"
+                },
+                {
+                    "name": "IdeaHub Wall Mount Bracket"
+                },
+                {
+                    "name": "IdeaHub White Rolling Stand II"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-23",
+            "title": "ICD OPS i7 Z",
+            "description": "OPS,I7-10700,DDR4 16GB,512GB SSD,Windows10 IOT Entreprise SAC,195mm,180mm,30mm",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-23.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "ICD OPS i7 Z"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-24",
+            "title": "ICD OPS i5 D",
+            "description": "OPS,I5-10500,DDR4 8GB,128GB SSD,Windows10 IOT Entreprise SAC,195mm,180mm,30mm",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-24.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "ICD OPS i5 D"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-25",
+            "title": "IdeaHub Wall Mount Bracket",
+            "description": "HUAWEI IdeaHub Board Edu Screen Touch Pen (2pcs/one box)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-25.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub Wall Mount Bracket"
+                },
+                {
+                    "name": "IdeaHub White Rolling Stand II"
+                },
+                {
+                    "name": "IFP-UG86E-STP-V1"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-26",
+            "title": "IdeaHub White Rolling Stand II",
+            "description": "HUAWEI Ideahub White Rolling Stand II (65/75/86 inches)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-26.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub White Rolling Stand II"
+                },
+                {
+                    "name": "IdeaHub Wall Mount Bracket"
+                },
+                {
+                    "name": "IFP-UG86E-STP-V1"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-27",
+            "title": "IdeaHub Controller",
+            "description": "HUAWEI Ideahub White Rolling Stand II (65/75/86 inches)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-27.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub Controller"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-28",
+            "title": "EC9BONPRE05",
+            "description": "HUAWEI Ideahub White Rolling Stand II (65/75/86 inches)",
+            "src": "/products/IDEAHUB/IdeahubComponents/ideahub-product-28.png",
+            "category": "IdeaHub Components",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "EC9BONPRE05",
+                    "description": "Versión estándar con estuche de carga."
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-29",
+            "title": "IdeaHub Board 2 65 Maintenance card",
+            "description": "Category 1(Ideahub Board 2 65)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others29.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub Board 2 65 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub S2 65 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub S2 75/86 Maintenance Card"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-30",
+            "title": "IdeaHub OPS I5/I7 Maintenance Card",
+            "description": "Common Parts(OPS I5/I7)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others30.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub OPS I5/I7 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub S2 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub S2 75/86 Maintenance Card"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-31",
+            "title": "IdeaHub S2 75/86 Maintenance Card",
+            "description": "Common Parts(OPS I5/I7)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others31.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub S2 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub Board 2 65 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub OPS I5/I7 Maintenance Card"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-32",
+            "title": "IdeaHub S2 65 Maintenance Card",
+            "description": "Category 3(Ideahub S2 65)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others32.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub S2 65 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub Board 2 65 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-33",
+            "title": "IdeaHub B2/B3 75/86 Maintenance Card",
+            "description": "Category 4(IdeaHub B2/B3 75/86)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others33.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B2/B3 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub S2 65 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub Board 2 65 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                }
+            ]
+        },
+        {
+            "alias": "ideahub-product-34",
+            "title": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card",
+            "description": "Category 2(IdeaHub B2/B3 65;Board 2 75/86)_Intelligent Collaboration_RFR 30BD-S_12Months_Per Hardware Maintenance card",
+            "src": "/products/IDEAHUB/Others/Others34.png",
+            "category": "Others",
+            "series": "Series A",
+            "models": [
+                {
+                    "name": "IdeaHub B2/B3 65;Board 2 75/86 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub Board 2 65 Maintenance card"
+                },
+                {
+                    "name": "IdeaHub B2/B3 75/86 Maintenance Card"
+                },
+                {
+                    "name": "IdeaHub S2 65 Maintenance Card"
+                }
+            ]
+        }
+    ]
+}

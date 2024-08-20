@@ -1,0 +1,41 @@
+.staticButtons {
+    position: fixed;
+    bottom: 140px;
+    right: 17px;
+    display: flex;
+    flex-direction: column;
+    z-index: 999;
+    background: #fff;
+    align-items: center;
+    text-align: center;
+    padding: 12px 8px;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, .1);
+    border-radius: 4px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+.headsets,
+.top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, .06);
+    padding: 12px 0;
+}
+
+.staticButtons .headsets,
+.staticButtons .top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.staticButtons .headsets:hover .text-gray-500,
+.staticButtons .top:hover .text-gray-500 {
+    color: #c7000ad3;
+}

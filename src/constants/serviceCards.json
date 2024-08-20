@@ -1,0 +1,98 @@
+{
+    "Services": [
+        {
+            "id": 1,
+            "title": "Online Support",
+            "subtitle": "Get 24/7 support from Huawei engineers or chatbots.",
+            "icon": "support"
+        },
+        {
+            "id": 2,
+            "title": "Maintenance Status",
+            "subtitle": "Check maintenance and warranty status by serial number.",
+            "icon": "maintenancestatus"
+        },
+        {
+            "id": 3,
+            "title": "RMA Status",
+            "subtitle": "Check the status of Return Material Authorization(RMA) requests.",
+            "icon": "rma"
+        },
+        {
+            "id": 4,
+            "title": "Service Request",
+            "subtitle": "Submit and check your service requests(SRs)",
+            "icon": "service"
+        },
+        {
+            "id": 5,
+            "title": "DOA Status",
+            "subtitle": "Check the status of return and replacement requests for damaged and incorrect goods.",
+            "icon": "doa"
+        },
+        {
+            "id": 6,
+            "title": "Warranty Policy",
+            "subtitle": "Get information about warranty terms applicable to Huawei Enterprise products. This is a general policy and",
+            "icon": "warranty"
+        },
+        {
+            "id": 7,
+            "title": "Maintenance Card",
+            "subtitle": "Learn about Huawei's support service.",
+            "icon": "maintenancecard"
+        },
+        {
+            "id": 8,
+            "title": "Product Lifecycle Query",
+            "subtitle": "To query product life cycle",
+            "icon": "lifecycle"
+        }
+    ],
+    "Documentation": [
+        {
+            "id": 1,
+            "title": "User Manual",
+            "subtitle": "Complete user guide for our software.",
+            "icon": "data"
+        },
+        {
+            "id": 2,
+            "title": "API Documentation",
+            "subtitle": "Detailed API reference for developers.",
+            "icon": "optical"
+        },
+        {
+            "id": 3,
+            "title": "Installation Guide",
+            "subtitle": "Step-by-step installation instructions.",
+            "icon": "storage"
+        },
+        {
+            "id": 4,
+            "title": "Troubleshooting",
+            "subtitle": "Common issues and solutions.",
+            "icon": "collaboration"
+        }
+    ],
+    "Bulletins": [
+        {
+            "id": 1,
+            "title": "Product Bulletins",
+            "subtitle": "Product lifecycle, pre-warning, rectification.",
+            "icon": "productbulletins"
+        },
+        {
+            "id": 2,
+            "title": "Security Bulletins",
+            "subtitle": "Product Safety Information Notice.",
+            "icon": "securitybulletins"
+        },
+        {
+            "id": 3,
+            "title": "Service Bulletins",
+            "subtitle": "Software bulletins, Information periodicals.",
+            "icon": "servicebulletins"
+        }
+    ]
+}

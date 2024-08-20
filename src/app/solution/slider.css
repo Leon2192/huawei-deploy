@@ -1,0 +1,17 @@
+.slick-track{
+    display: flex;
+    gap: 20px;
+}
+.slick-prev {
+    z-index: 1000000;
+    left: 235px;
+}
+.slick-next{
+    z-index: 1000000;
+    right: 250px;
+}
+
+.slick-next::before, .slick-prev::before{
+    color: #000000cb!important;
+    font-size: 40px;
+}

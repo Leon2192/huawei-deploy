@@ -1,0 +1,7 @@
+@media (max-width: 640px) {
+
+    /* sm: 640px es el tamaño por defecto en Tailwind */
+    .sm-min-w-full {
+        min-width: 100%;
+    }
+}

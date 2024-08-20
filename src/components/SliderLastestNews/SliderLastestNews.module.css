@@ -1,0 +1,109 @@
+.sliderLastestNews {
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.slick-slider {
+    /* width: 520px !important; */
+}
+
+
+.sliderCard {
+    background-color: #fff;
+    border-radius: 15px;
+    width: 580px !important;
+    /* display: flex !important; */
+    /* justify-content: center; */
+    /* flex-direction: column; */
+    min-height: 550px;
+}
+
+.sliderImg {
+    border-radius: 16px 16px 0px 0px;
+    width: auto;
+    min-height: 340px;
+}
+
+/* CONTENEDOR DE SLIDERH2 Y SLIDERH3 */
+.sliderText {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px;
+    flex: 1;
+    min-height: 160px;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* width: 90%; */
+}
+
+/* CONTENEDOR DE SLIDERH2 Y SLIDERH3 */
+
+.sliderH2 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.sliderH5 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.sliderP {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 204px;
+}
+
+
+.carousel {
+    display: flex !important;
+    width: 76em;
+    gap: 10px !important;
+}
+
+@media (min-width: 1200px) {
+    .contenedorSlider{
+        display: flex!important;
+        justify-content: center!important;
+        gap: 15px;
+    }
+    
+    /* .slick-slide {
+        width: 100%!important;
+    } */
+
+    .slick-active div {
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row; */
+        transition: .5s ease;
+    }
+
+    /* .carousel {
+        display: flex !important;
+        width: 100%;
+        gap: 10px !important;
+        display: flex;
+        justify-content: center;
+    } */
+    .slick-slide.slick-active.slick-current > * {
+        /* Aquí van los estilos para el hijo */
+        display: flex!important;
+        justify-content: center!important;
+        flex-direction: row!important;
+    }
+}
+
+@media (max-width: 768px) {
+    .sliderCard{
+        width: 70%;
+    }
+}

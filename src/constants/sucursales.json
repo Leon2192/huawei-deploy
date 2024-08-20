@@ -1,0 +1,72 @@
+{
+    "ABCDE": [
+        {
+            "name": "Argentina",
+            "src": "https://www.solutionbox.com.ar/"
+        },
+        {
+            "name": "Chile",
+            "src": "https://www.solutionbox.cl/"
+        },
+        {
+            "name": "Costa Rica",
+            "src": "https://www.solutionbox.cr/"
+        }
+    ],
+    "EFGHI": [
+        {
+            "name": "El Salvador",
+            "src": "https://www.solutionbox.com.sv/"
+        },
+        {
+            "name": "Estados Unidos",
+            "src": "https://www.solutionboxusa.com/"
+        },
+        {
+            "name": "Honduras",
+            "src": "https://www.solutionbox.com.hn/"
+        },
+        {
+            "name": "Hong Kong",
+            "src": "https://www.solutionbox.com.hk/"
+        },
+        {
+            "name": "Guatemala",
+            "src": "https://www.solutionbox.com.gt/"
+        }
+    ],
+    "JKLMN": [
+        {
+            "name": "Jamaica",
+            "src": "https://www.solutionbox.com.jm/"
+        }
+    ],
+    "OPQRS": [
+        {
+            "name": "Panama",
+            "src": "https://www.solutionbox.com.pa/"
+        },
+        {
+            "name": "Paraguay",
+            "src": "https://www.solutionbox.com.py/"
+        },
+        {
+            "name": "Puerto Rico",
+            "src": "https://www.solutionbox.com.pr/"
+        },
+        {
+            "name": "Republica Dominicana",
+            "src": "https://www.solutionbox.com.do/"
+        }
+    ],
+    "TUVWX": [
+        {
+            "name": "Trinidad y Tobago",
+            "src": "https://www.solutionbox.com.tt/"
+        },
+        {
+            "name": "Uruguay",
+            "src": "https://www.solutionbox.com.uy/"
+        }
+    ]
+}

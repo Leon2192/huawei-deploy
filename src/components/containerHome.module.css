@@ -1,0 +1,138 @@
+.container {
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    padding: 0 15px;
+    /* Esto ayuda a agregar un poco de espacio a los lados */
+}
+
+.imageContainer {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 36px;
+    margin: 30px 0;
+}
+
+/************ TEXTO DENTRO DE IMAGEN */
+.imageText {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    text-align: start;
+    max-width: fit-content;
+}
+
+.parrafos {
+    margin-bottom: 22px;
+    opacity: 4;
+    color: #0000007e;
+    overflow: hidden;
+    width: 55%;
+}
+
+.btnMore {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 22px 40px;
+    border-radius: 30px;
+}
+
+/************ TEXTO DENTRO DE IMAGEN */
+
+.img {
+    border-radius: 16px;
+}
+
+/* Media Queries */
+
+/* Tablets y móviles (hasta 1024px) */
+@media (max-width: 1024px) {
+    .title {
+        font-size: 28px;
+    }
+
+    .imageText {
+        position: static;
+        transform: none;
+        text-align: center;
+        margin: 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 50%;
+        /* Ajusta el ancho máximo para evitar desbordamientos */
+    }
+
+    .parrafos {
+        font-size: 14px;
+    }
+
+    .btnMore {
+        padding: 12px 24px;
+        font-size: 14px;
+    }
+
+    .parrafos {
+        width: 100%;
+    }
+
+    .imgUp {
+        border-radius: 16px;
+    }
+    .imgDown {
+        border-radius: 16px;
+    }
+}
+
+/* Móviles pequeños (hasta 768px) */
+@media (max-width: 768px) {
+    .title {
+        font-size: 24px;
+    }
+
+    .parrafos {
+        font-size: 12px;
+    }
+
+    .btnMore {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .imageContainer {
+        margin-bottom: 20px;
+        /* Espacio entre imágenes y tarjetas */
+    }
+}
+
+/* Móviles muy pequeños (hasta 480px) */
+@media (max-width: 480px) {
+    .title {
+        font-size: 20px;
+    }
+
+    .parrafos {
+        font-size: 10px;
+    }
+
+    .btnMore {
+        padding: 8px 16px;
+        font-size: 10px;
+    }
+}

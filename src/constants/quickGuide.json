@@ -1,0 +1,154 @@
+[
+    {
+        "id":1,
+        "icon":"LuUserCog",
+        "title":"Registration and Certification",
+        "list": [
+            {
+                "id":1,
+                "list":"How-to Video: Certification as a Gold Distribution Partner"
+            },
+            {
+                "id":2,
+                "list":"How-to Video: Certification as a Elite Distribution Partner"
+            },
+            {
+                "id":3,
+                "list":"How-to Video: Registration as a Sales Partner"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=2edd1c02cfca460aa52d40182ee6a13a&contentId=2edd1c02cfca460aa52d40182ee6a13a&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":2,
+        "icon":"LuCalendarClock",
+        "title":"Order Placement",
+        "list": [
+            {
+                "id":1,
+                "list":"Detailed Explanation for the Must Info on [Submit Order] Page"
+            },
+            {
+                "id":2,
+                "list":"How to Check Your Credit Usage and Service?"
+            },
+            {
+                "id":3,
+                "list":"Things You Must Know Before Order Placement"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=15ba65f1181a4b57b4caf0c294423e7c&contentId=15ba65f1181a4b57b4caf0c294423e7c&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":3,
+        "icon":"RiFilePaper2Line",
+        "title":"Order Management",
+        "list": [
+            {
+                "id":1,
+                "list":"How to View Order Dynamics"
+            },
+            {
+                "id":2,
+                "list":"How to Change the Order?"
+            },
+            {
+                "id":3,
+                "list":"One Article to Master All Your Order Status"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=1043e676a1e24931a78780e3be4d962a&contentId=1043e676a1e24931a78780e3be4d962a&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":4,
+        "icon":"BsClipboard2Data",
+        "title":"MArketing Promotion",
+        "list": [
+            {
+                "id":1,
+                "list":"How to Obtain Marketing MAterials?"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=baf7dd53d83e47d0a10a443a462c5aa0&contentId=baf7dd53d83e47d0a10a443a462c5aa0&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":5,
+        "icon":"VscGraph",
+        "title":"Performance Incentives",
+        "list": [
+            {
+                "id":1,
+                "list":"Launch of the Incentive Dashboard"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=07c29c0327dd44c08828f009636f951b&contentId=07c29c0327dd44c08828f009636f951b&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":6,
+        "icon":"FaUsersLine",
+        "title":"Service Support",
+        "list": [
+            {
+                "id":1,
+                "list":"How to Use the 3D Experience Center?"
+            },
+            {
+                "id":2,
+                "list":"How to Use the SME Network WLAN Planner?"
+            },
+            {
+                "id":3,
+                "list":"How to Activate the Maintenance Card?"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=484b37fc1de14a4293933c93d9152c27&contentId=484b37fc1de14a4293933c93d9152c27&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":7,
+        "icon":"BsHouseGear",
+        "title":"PSI Management",
+        "list": [
+            {
+                "id":1,
+                "list":"How to Submit Sell Through?"
+            },
+            {
+                "id":2,
+                "list":"How to Submit Sales Return?"
+            },
+            {
+                "id":3,
+                "list":"How to Fill in the Demand Forecast"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=67bb80adf8d540ec829ac5991b486e5a&contentId=67bb80adf8d540ec829ac5991b486e5a&activeType=list&countryCode=Global&lang=en"
+    },
+    {
+        "id":7,
+        "icon":"LuMonitorPlay",
+        "title":"How-to Videos",
+        "list": [
+            {
+                "id":1,
+                "list":"How-to Video: Order Placement on HUAWEI eKit Website"
+            },
+            {
+                "id":2,
+                "list":"How-to Video: Fill in Demand Forecast"
+            },
+            {
+                "id":3,
+                "list":"How-to Video: Apply for Role Permissions and Approve Them"
+            }
+
+        ],
+        "url":"https://ekit.huawei.com/#/stratQuick/main/detail?activeKey=d38aa8ffb2be49e2af4b864fd0a9ac4d&contentId=d38aa8ffb2be49e2af4b864fd0a9ac4d&activeType=list&countryCode=Global&lang=en"
+    }
+]
